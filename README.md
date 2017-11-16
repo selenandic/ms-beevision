@@ -29,5 +29,6 @@ Outputs after the code is run
 4)	RRMSEs of the best "nbrbest" variables according to "results1"  and "results2", and recursive forecasts of these variables are shown graphically.
 
 Example
-1)	I have provided two example workfiles. The first one includes the “y” and 45 independent variables that will be used in forecasting. 
-2)	The second one is the workfile obtained after the code is run.
+1)	I have provided an example workfile. 
+2)  It includes “y” and 45 independent variables that will be used in forecasting. 
+3)  You can use this workfile and the code to see how the code works and how the results are reported.
