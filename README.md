@@ -1,5 +1,5 @@
 Introduction
-1)	This is an EViews code for selection of variables according to their pseudo out-of-sample forecasting performances measured by RMSE.
+1)	This is an EViews code for selection of variables according to their pseudo out-of-sample forecasting performances measured by relative root mean squared error (RMSE).
 2)	It rests on the work of Banerjee, A. and M. Marcellino (2006). Are there any reliable leading indicators for US inflation and GDP growth? International Journal of Forecasting 22 (1), 137-151.
 3)	This code is written by Selen Andic using EViews 8 on 13/6/2014.
 4)	Please cite Andic, S. and F. Ogunc. 2015. Variable selection for inflation: a pseudo out-of-sample approach. Central Bank of Turkey Working Paper No:15/06.
@@ -26,7 +26,7 @@ Outputs after the code is run
 1)	Performances according to criteria "results1" (RMSE-sum) are presented in "Table Results1".
 2)	Performances according to criteria "results2" (outperform ratio etc.) are presented in "Table Results2"
 3)	Results of "nbrbest" (for instance 5) variables are presented in "Table Results of Best"
-4)	RRMSEs of the best "nbrbest" variables according to "results1"  and "results2", and recursive forecasts of these variables are shown graphically.
+4)	Relative RMSEs (RRMSE) of the best "nbrbest" variables according to "results1"  and "results2", and recursive forecasts of these variables are shown graphically.
 
 Example
 1)	I have provided an example workfile. 
