@@ -1,4 +1,4 @@
-Introduction
+##Introduction
 1)	This is an EViews code for selection of variables according to their pseudo out-of-sample forecasting performances measured by relative root mean squared error (RMSE).
 2)	It rests on the work of Banerjee, A. and M. Marcellino (2006). Are there any reliable leading indicators for US inflation and GDP growth? International Journal of Forecasting 22 (1), 137-151.
 3)	This code is written by Selen Andic using EViews 8 on 13/6/2014.
