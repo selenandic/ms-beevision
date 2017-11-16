@@ -24,8 +24,8 @@
 
 ## Outputs after the code is run
 1)	Performances according to criteria "results1" (RMSE-sum) are presented in "Table Results1".
-2)	Performances according to criteria "results2" (outperform ratio etc.) are presented in "Table Results2"
-3)	Results of "nbrbest" (for instance 5) variables are presented in "Table Results of Best"
+2)	Performances according to criteria "results2" (outperform ratio etc.) are presented in "Table Results2".
+3)	Results of "nbrbest" (for instance 5) variables are presented in "Table Results of Best".
 4)	Relative RMSEs (RRMSE) of the best "nbrbest" variables according to "results1"  and "results2", and recursive forecasts of these variables are shown graphically.
 
 ## Example
