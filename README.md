@@ -31,4 +31,5 @@ Outputs after the code is run
 Example
 1)	I have provided an example workfile. 
 2)  It includes “y” and 45 independent variables that will be used in forecasting. 
-3)  You can use this workfile and the code to see how the code works and how the results are reported.
+3)  You can use this workfile and the code to see how the code works and how the results are reported. If you choose to report the performances of 5 best variables,  is defined as scalar nbrbest=5 in the code, your final screen should look like this:
+
