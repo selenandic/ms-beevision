@@ -16,9 +16,9 @@ How the code is run
 6)	Make sure you do not have any missing values between the first and last observation of your "y" and "x" data.
 7)	Paste your data in its stationary form(s) into an E-views wf.
 8)	Name the dependent variable as "y". 
-9)	For "x" variables, Quick> Empty Group. paste your "x"  variables without names and close the group without saving. EViews will name your" x" series as "ser*".
+9)	For "x" variables, Quick> Empty Group. Paste your "x"  variables without names and close the group without saving. EViews will name your "x" series as "ser*".
 10)	Download the .prg file that I have provided in this repository to your computer.
-11)	Open the program: File>Open>Programschoose the program.
+11)	Open the program: File>Open>Programs and choose the program.
 12)	Declare your forecasting framework in section 2 of the code.
 13)	Run the code quietly for faster results. 
 
