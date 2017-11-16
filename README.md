@@ -6,7 +6,7 @@ Introduction
 
 Estimation framework
 1)	y: stationary dependent variable, x: stationary independent variable, L: lags, e:error term.
-2)	General form of the model: y=c+b1*L(y)+b2*L(x)+e.
+2)	General form of the model is a single equation: y=c+b1*L(y)+b2*L(x)+e.
 3)	Lags of “y” and “x” variables are determined according to the Schwarz criteria.
 4)	Your “x” data set can be as large as you want and can have ragged end.
 
