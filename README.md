@@ -13,7 +13,7 @@ Estimation framework
 How the code is run
 1)	This code works with quarterly or monthly data.
 5)	Make sure start date of your workfile (wf) matches the date of your first "y" observation.
-6)	Make sure you do not have any missing values between the first and last observation of your y and x data.
+6)	Make sure you do not have any missing values between the first and last observation of your "y" and "x" data.
 7)	Paste your data in its stationary form(s) into a E-views wf.
 8)	Name the dependent variable as "y". 
 9)	For "x" variables, Quick> Empty Group. paste your "x"  variables without names and close the group without saving. EViews will name your" x" series as "ser*".
