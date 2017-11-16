@@ -1,16 +1,15 @@
 Introduction
-
 1)	This is an EViews code, written in its 8th version, for selection of variables according to their pseudo out-of-sample forecasting performances measured by RMSE.
 2)	It rests on the work of Banerjee, A. and M. Marcellino (2006). Are there any reliable leading indicators for US inflation and GDP growth? International Journal of Forecasting 22 (1), 137-151.
 3)	This code is written by Selen Andic on 13/6/2014.
 4)	Please cite Andic, S. and F. Ogunc. 2015. Variable selection for inflation: a pseudo out-of-sample approach. Central Bank of Turkey Working Paper No:15/06.
 
 Estimation framework:
-
 1)	y: stationary dependent variable, x: stationary independent variable, L: lags, e:error term.
 2)	General form of the model: y=c+b1*L(y)+b2*L(x)+e.
 3)	Lags of “y” and “x” variables are determined according to the Schwarz criteria.
 4)	Your “x” data set can be as large as you want and can have ragged end.
+
 How the code is run;
 1)	This code works with quarterly or monthly data.
 5)	Make sure start date of your workfile (wf) matches the date of your first "y" observation.
